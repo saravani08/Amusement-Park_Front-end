@@ -1,0 +1,21 @@
+.Homepic-1{
+    position: absolute;
+    left: 300px;
+}
+.Homepic-3{
+    position: absolute;
+    right: 30px;
+    top: 350px;
+}
+.Home-heading{
+    color: #06132b;
+}
+.Home-para{
+   
+    color: dodgerblue;
+}
+.Homebg{
+    background-color: whitesmoke;
+    background-image: url("https://www.msetconf.org/wp-content/uploads/2018/10/Web-Page-Background-Color.jpg");
+}
+  
